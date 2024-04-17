@@ -1,0 +1,11 @@
+.gradle
+.idea
+build
+gradle
+img.png
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
